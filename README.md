@@ -5,8 +5,8 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
-
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
+ -->
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain developmentCancel changes
